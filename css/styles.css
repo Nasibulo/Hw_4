@@ -1,0 +1,23 @@
+h1 {
+  color: red;
+}
+h1:hover {
+  color: green;
+}
+.img1 {
+  background-color: rosybrown;
+  width: 300px;
+}
+.img1:hover {
+  background-color: red;
+  width: 150px;
+}
+.img2 {
+  background-color: rosybrown;
+  width: 300px;
+}
+.img3 {
+  background-color: seagreen;
+  width: 300px;
+  border-radius: 100%;
+}
